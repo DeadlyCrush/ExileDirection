@@ -78,9 +78,27 @@ Setting : 단축키 설정
 ■ 편의 기능 : 컨트롤+마우스휠로 보관함 탭 이동 기능 ( 알려진 버그 : 줌인 현상 수정 예정입니다. )
 
 
+![DeadlyCrush 2019_0707_009](https://user-images.githubusercontent.com/11026168/60761810-711af080-a08b-11e9-9305-adc06a2dae14.png)
+
+![DeadlyCrush 2019_0707_002](https://user-images.githubusercontent.com/11026168/60761783-31ec9f80-a08b-11e9-8e7f-547ed348578c.png)
+
+![DeadlyCrush 2019_0707_003](https://user-images.githubusercontent.com/11026168/60761795-46c93300-a08b-11e9-91ef-19ae7912dc2e.png)
+
+![DeadlyCrush 2019_0707_004](https://user-images.githubusercontent.com/11026168/60761796-4a5cba00-a08b-11e9-851b-e205bab91609.png)
+
+![DeadlyCrush 2019_0707_006](https://user-images.githubusercontent.com/11026168/60761798-4f216e00-a08b-11e9-9083-22f74d4fa8b9.png)
+
+![DeadlyCrush 2019_0707_007](https://user-images.githubusercontent.com/11026168/60761802-53e62200-a08b-11e9-85df-097450b8dcbc.png)
+
+![DeadlyCrush 2019_0707_008](https://user-images.githubusercontent.com/11026168/60761805-56e11280-a08b-11e9-8b72-cfbd15efcd41.png)
+
+
+
 
 * 카페 게시물 첨부 파일 : AnyCPU, x64, x86 ( .Net Framework은 4.6으로 타게팅 통일했습니다. )
 * GitHub 다운로드 : https://github.com/DeadlyCrush/ExileDirection/releases/tag/1.0.0.2
 
 #패스오브엑자일 #PathOfExile #매크로 #Macro #애드온 #Addon 
 #퀘스트 #액트 #헬퍼 #한글 #다음 #카카오
+
+
