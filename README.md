@@ -12,7 +12,7 @@
 
 [ Exile Direction V2. ]
 
-
+영상으로 소개/설명 https://youtu.be/BmhGuDk_5PI
 
 : 반드시 관리자 권한으로 실행해주세요.
 
