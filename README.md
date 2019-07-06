@@ -49,7 +49,7 @@ Setting : 단축키 설정
 
 
 ■ 기본 메인 창 : 위치이동 가능, 축소 가능, 퀘스트 헬퍼 및 오버레이 등을 여러곳에 배치해두고 사용 가능
-
+https://cafefiles.pstatic.net/MjAxOTA3MDJfMTM2/MDAxNTYyMDY3NjA4OTgx.PLk86xhc6oQj8ypDPin0nBS7jfz3FVM5KvA1CUbPFA4g.MHPlDAj2DALvu7ZneKXh5VoYSVZV3tRgPCX07w9FgHwg.PNG/%EC%9D%B4%EB%AF%B8%EC%A7%80_045.png
 
 
 ■ 메인창 축소 및 자유로운 위치 이동
