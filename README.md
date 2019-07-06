@@ -1,5 +1,6 @@
 +=======================+
-+ Exile Direction V2. ( 07.06  ) : 다음 카카오 클라이언트, ggg 클라이언트 (한글UI, 영문 UI) 모두 사용 가능
++ Exile Direction V2. ( 07.06  )
+: 다음 카카오 클라이언트, ggg 클라이언트 (한글UI, 영문 UI) 모두 사용 가능
 +=======================+
 
 안녕하세요. 데들리크러쉬 입니다.
@@ -81,3 +82,6 @@ Setting : 단축키 설정
 
 * 카페 게시물 첨부 파일 : AnyCPU, x64, x86 ( .Net Framework은 4.6으로 타게팅 통일했습니다. )
 * GitHub 다운로드 : https://github.com/DeadlyCrush/ExileDirection/releases/tag/1.0.0.2
+
+#패스오브엑자일 #PathOfExile #매크로 #Macro #애드온 #Addon 
+#퀘스트 #액트 #헬퍼 #한글 #다음 #카카오
