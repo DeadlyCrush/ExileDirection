@@ -40,7 +40,7 @@
    2) 실시간 시세 기준 엑잘 ↔ 카오스 변환기가 지원됩니다.
       : 향후 모든 커런시 변환(실시간 계산)기가 업데이트될 예정입니다.
       
-![DeadlyCrush 2019_0707_008](https://user-images.githubusercontent.com/11026168/60761805-56e11280-a08b-11e9-8b72-cfbd15efcd41.png)
+![DeadlyCrush 2019_0708_002](https://user-images.githubusercontent.com/11026168/60771541-a4f62480-a124-11e9-85a9-1375bea11eea.png)
 
 +=======================+
 + Exile Direction V2. ( 07.06  )
