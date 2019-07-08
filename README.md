@@ -42,6 +42,10 @@
       
 ![DeadlyCrush 2019_0708_002](https://user-images.githubusercontent.com/11026168/60771541-a4f62480-a124-11e9-85a9-1375bea11eea.png)
 
+
+![DeadlyCrush 2019_0708_004](https://user-images.githubusercontent.com/11026168/60776559-24591780-a168-11e9-8994-30b2c89a97b0.png)
+
+
 +=======================+
 + Exile Direction V2. ( 07.06  )
 : 다음 카카오 클라이언트, ggg 클라이언트 (한글UI, 영문 UI) 모두 사용 가능
