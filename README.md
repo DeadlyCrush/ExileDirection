@@ -1,3 +1,117 @@
+안녕하세요. 데들리크러쉬입니다.
+애드온 공유하는 입장인 저로써는 엑자일 디렉션, 머큐리, 필터 등등...
+
+현재 시급하다고 생각하는 것들이 있는데 개인 시간은 부족하고 그래서,
+그나마 간단하게 요청 사항을 반영할 수 있는 내용을 쉬어가는 업데이트? 정도로 생각하고 올립니다.
+(
+본 요청은
+의외로 상당수의 의견과 마루치님 외... 스탠다드, 하드코어 유저의 요청 등... 
+에 의해 추가되었습니다.
+)
+
+[ 2019.07.17 쉬어가는 업데이트 ]
+: Ninja 시세창에서 리그를 선택할 수 있습니다.
+: 첨부된 파일 압축을 풀고 아무 exe나 실행하시면 됩니다. ( 특수한 경우, x64를 실행하세요. )
+: POExileDirection_LeagueSelect.zip 압축비번 1234
+
+
+
+
+엑자일 디렉션을 처음 접하시는 분은 아래 게시물 내용들과
+함께 소통한 많은 댓글들을 통해 정보를 습득하실 수 있습니다. ^_______^*
+
+항상 응원해주시고 격려해주셔서 감사합니다.
+의견, 지적, 제안, 오류 제보 등... 다른 여러 말씀도 주시면 감사하겠습니다.
+
+오늘도 즐거운 엑자일 되세요. 미러 꼭 드시구요 ^^*~!
+
+
+[ 참조 이미지 - 2019.07.17 시세 리그 선택 ]
+
+
+
+
+
+
+
+
+
+
+[ Exile Direction 07.13 업데이트 안내 ]
+
+   계획에 없었던 일이었는데 많은 분들이 수동 수정을 불편해하시는거 같아서,
+   약간의 수정/보완만 포함해서 업데이트 올립니다. 정말 계획에 없던거에요;;
+
+1. 카카오, ggg 클라이언트 선택
+   1) client.txt 경로 등의 수정을 고민하지 마시고 그냥 선택하시면 됩니다.
+   2) 최초 실행시 매번 물어봅니다. 다음번 업데이트에 개선할 생각입니다. 급하게 만드느라;;
+   3) 결론, 카카오 클라이언트이든 ggg 클라이언트이든 메시지창에서 선택만 해주시면 됩니다.
+
+   
+
+2. 실시간 시세 데이터의 정확도 개선
+   1) 이제 실시간 NINJA 데이터를 정확하게 현재 시분초 시점으로 가져옵니다.
+   2) 창을 열 때 약간(2초 전후)의 시간이 걸려서 알림 메시지가 뜹니다.
+   3) 그러므로, 하이드아웃 등... 안전한 곳에서만 사용하세요.
+   
+
+3. 오류 수정
+   1) 은신처 이동시, 캐릭터 선택창으로 이동되는 현상 수정
+   2) 나머지는... 정리중입니다. 긴급 업데이트니 이해해주세요. ^^;...
+
+4. 오버레이 이미지 표현 외... 이미지를 사용하는 모든것에 대한 리소스를 줄였습니다.
+   1) GDI 리소스를 원래도 거의 없다시피 했음을 알려드립니다.
+   2) 이번에 이 부분을 넣은건 앞으로 계획중인 내용에서 GDI 리소스 관리가 필요해서 입니다.
+   3) 원래 없던 GDI 리소스 조금이나마;; 더 줄었습니다.
+
+5. 이제 x86은 별도로 배포하지 않습니다.
+   1) AnyCPU에서 정상 동작해야 문제가 없는 PC이며, AnyCPU는 PC가 32비트이면 알아서 32bit로 동작합니다.
+   2) x64는 특수한 상황을 고려해서 별도 배포합니다.
+   3) .Net Framework는 정말 오래 PC관리를 하지 않은 이상 사용되는 4.6버전에 타게팅되어 있습니다.
+
+6. 안내
+   1) 업데이트 기능을 포함한 충전 기간의 아이디어와
+   2) 제보해주신 내용들... 감사합니다.
+   3) 여러 건의 및 의견들... 감사합니다.
+   4) 모두 수용할 순 없지만 필요한 것들과 가능한 것들 선별해서 최대한 반영할 예정입니다.
+
+※ 네이버 카페 첨부 파일 ( 본 게시물의 첨부파일 )
+   ▷ ExileDirection_0713_AnyCPU.zip
+   ▷ ExileDirection_0713_x64.zip
+
+* GitHub
+   ▷ https://github.com/DeadlyCrush/ExileDirection/releases/tag/1.1.1.1
+
+
+감사합니다. 즐거운 주말 되세요 ^___________^*~.
+( 조금 늦더라도 6. 안내에 말씀드린 업데이트 기다려주세용~. )
+
+
+
+!
+![이미지_7](https://user-images.githubusercontent.com/11026168/61376563-6149aa80-a8dc-11e9-94ef-1117c394712b.png)
+![이미지_039](https://user-images.githubusercontent.com/11026168/61376564-6149aa80-a8dc-11e9-9cae-51f2c2c50301.png)
+![이미지_040](https://user-images.githubusercontent.com/11026168/61376565-61e24100-a8dc-11e9-87e9-5211d260ca4d.png)
+
+
+[Uploading DeadlyCrush_2019_0713_004.png…]()
+![DeadlyCrush_2019_0717_000](https://user-images.githubusercontent.com/11026168/61376556-60b11400-a8dc-11e9-9a1b-cea50faeaa28.jpg)
+![DeadlyCrush_2019_0717_001](https://user-images.githubusercontent.com/11026168/61376558-60b11400-a8dc-11e9-9338-3cff2c5dd3af.jpg)
+![DeadlyCrush_2019_0717_002](https://user-images.githubusercontent.com/11026168/61376559-60b11400-a8dc-11e9-8cc6-6c4e838515d3.jpg)
+![이미지_4](https://user-images.githubusercontent.com/11026168/61376561-6149aa80-a8dc-11e9-8b4e-02e1d03272b7.png)
+![이미지_5](https://user-images.githubusercontent.com/11026168/61376562-6149aa80-a8dc-11e9-9bc3-f3c85ca7f690.png)
+
+![DeadlyCrush_2019_0707_004](https://user-images.githubusercontent.com/11026168/61376547-5f7fe700-a8dc-11e9-95a3-f106e291295e.png)
+![DeadlyCrush_2019_0707_006](https://user-images.githubusercontent.com/11026168/61376548-5f7fe700-a8dc-11e9-9ec9-392d2a0183c7.png)
+![DeadlyCrush_2019_0707_007](https://user-images.githubusercontent.com/11026168/61376549-5f7fe700-a8dc-11e9-89a1-b96b6ff960ae.png)
+![DeadlyCrush_2019_0707_008](https://user-images.githubusercontent.com/11026168/61376550-60187d80-a8dc-11e9-94a8-4f9dc7bb5cf7.png)
+![DeadlyCrush_2019_0708_003](https://user-images.githubusercontent.com/11026168/61376551-60187d80-a8dc-11e9-82ee-5cc56c404593.png)
+![DeadlyCrush_2019_0713_002](https://user-images.githubusercontent.com/11026168/61376554-60187d80-a8dc-11e9-8429-6ee5adbef695.png)
+
+
+
+
+
 다음 카카오 클라이언트, ggg 클라이언트 (한글UI, 영문 UI) 모두 사용 가능 합니다.
 +=======================+
 + Exile Direction V2. ( 07.08  )
