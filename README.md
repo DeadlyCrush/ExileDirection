@@ -29,7 +29,14 @@
 [ 참조 이미지 - 2019.07.17 시세 리그 선택 ]
 
 
+![이미지_7](https://user-images.githubusercontent.com/11026168/61376563-6149aa80-a8dc-11e9-94ef-1117c394712b.png)
+![이미지_039](https://user-images.githubusercontent.com/11026168/61376564-6149aa80-a8dc-11e9-9cae-51f2c2c50301.png)
+![이미지_040](https://user-images.githubusercontent.com/11026168/61376565-61e24100-a8dc-11e9-87e9-5211d260ca4d.png)
 
+
+![DeadlyCrush_2019_0717_000](https://user-images.githubusercontent.com/11026168/61376556-60b11400-a8dc-11e9-9a1b-cea50faeaa28.jpg)
+![DeadlyCrush_2019_0717_001](https://user-images.githubusercontent.com/11026168/61376558-60b11400-a8dc-11e9-9338-3cff2c5dd3af.jpg)
+![DeadlyCrush_2019_0717_002](https://user-images.githubusercontent.com/11026168/61376559-60b11400-a8dc-11e9-8cc6-6c4e838515d3.jpg)
 
 
 
@@ -88,16 +95,6 @@
 
 
 
-!
-![이미지_7](https://user-images.githubusercontent.com/11026168/61376563-6149aa80-a8dc-11e9-94ef-1117c394712b.png)
-![이미지_039](https://user-images.githubusercontent.com/11026168/61376564-6149aa80-a8dc-11e9-9cae-51f2c2c50301.png)
-![이미지_040](https://user-images.githubusercontent.com/11026168/61376565-61e24100-a8dc-11e9-87e9-5211d260ca4d.png)
-
-
-[Uploading DeadlyCrush_2019_0713_004.png…]()
-![DeadlyCrush_2019_0717_000](https://user-images.githubusercontent.com/11026168/61376556-60b11400-a8dc-11e9-9a1b-cea50faeaa28.jpg)
-![DeadlyCrush_2019_0717_001](https://user-images.githubusercontent.com/11026168/61376558-60b11400-a8dc-11e9-9338-3cff2c5dd3af.jpg)
-![DeadlyCrush_2019_0717_002](https://user-images.githubusercontent.com/11026168/61376559-60b11400-a8dc-11e9-8cc6-6c4e838515d3.jpg)
 ![이미지_4](https://user-images.githubusercontent.com/11026168/61376561-6149aa80-a8dc-11e9-8b4e-02e1d03272b7.png)
 ![이미지_5](https://user-images.githubusercontent.com/11026168/61376562-6149aa80-a8dc-11e9-9bc3-f3c85ca7f690.png)
 
