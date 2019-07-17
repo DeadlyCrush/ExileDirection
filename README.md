@@ -54,7 +54,7 @@
    2) 최초 실행시 매번 물어봅니다. 다음번 업데이트에 개선할 생각입니다. 급하게 만드느라;;
    3) 결론, 카카오 클라이언트이든 ggg 클라이언트이든 메시지창에서 선택만 해주시면 됩니다.
 
-   
+   ![DeadlyCrush_2019_0713_002](https://user-images.githubusercontent.com/11026168/61376554-60187d80-a8dc-11e9-8429-6ee5adbef695.png)
 
 2. 실시간 시세 데이터의 정확도 개선
    1) 이제 실시간 NINJA 데이터를 정확하게 현재 시분초 시점으로 가져옵니다.
@@ -103,10 +103,6 @@
 ![DeadlyCrush_2019_0707_007](https://user-images.githubusercontent.com/11026168/61376549-5f7fe700-a8dc-11e9-89a1-b96b6ff960ae.png)
 ![DeadlyCrush_2019_0707_008](https://user-images.githubusercontent.com/11026168/61376550-60187d80-a8dc-11e9-94a8-4f9dc7bb5cf7.png)
 ![DeadlyCrush_2019_0708_003](https://user-images.githubusercontent.com/11026168/61376551-60187d80-a8dc-11e9-82ee-5cc56c404593.png)
-![DeadlyCrush_2019_0713_002](https://user-images.githubusercontent.com/11026168/61376554-60187d80-a8dc-11e9-8429-6ee5adbef695.png)
-
-
-
 
 
 다음 카카오 클라이언트, ggg 클라이언트 (한글UI, 영문 UI) 모두 사용 가능 합니다.
